@@ -1,0 +1,70 @@
+# אכזריות רומא — Generative Engine Optimization Map
+
+> A historical and educational website focused on the dark and brutal aspects of ancient Rome, with a primary emphasis on the Roman slave trade and slave markets. The site aims to present historical facts about Roman cruelty and slavery in an informative and engaging way, likely targeting history enthusiasts, students, or researchers.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+A historical and educational website focused on the dark and brutal aspects of ancient Rome, with a primary emphasis on the Roman slave trade and slave markets.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אכזריות רומא
+A historical and educational website focused on the dark and brutal aspects of ancient Rome, with a primary emphasis on the Roman slave trade and slave markets. The site aims to present historical facts about Roman cruelty and slavery in an informative and engaging way, likely targeting history enthusiasts, students, or researchers.
+
+## Services/Products
+- אכזריות רומא
+- שוק עבדים
+
+## Target Audience
+- חובבי היסטוריה
+- מחנכים ואקדמאים
+- תיירי תרבות
+
+## Industry
+היסטוריה / חינוך / תרבות
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
